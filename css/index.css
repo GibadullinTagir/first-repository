@@ -30,7 +30,7 @@
 
 .right-side__text-for-buton {
     display: none;
-    font-family:'TT Lakes' ;
+    font-family:'TT Lakes';
     font-size: 16px;
     line-height: 24px;
     letter-spacing: -0.2px;
@@ -46,8 +46,8 @@
     width: 4px;
     height: 40px;
     background: #41F6D7;
-    border-top-right-radius :20px ;
-    border-bottom-right-radius: 20px ;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
 }
 
 .title__text{
@@ -134,7 +134,7 @@
 
 .content__rightside :nth-child(1) {
     width: 100%;
-    height:100%;
+    height: 100%;
     border-top-left-radius: 8px;
 }
 
@@ -143,7 +143,7 @@
         display: none;
     }
 
-    .component__round-button__vanish{
+    .component__round-button__hiden{
         display: none;
     }
 
@@ -183,7 +183,7 @@
         display: none;
     }
 
-    .component__round-button__vanish {
+    .component__round-button__hiden {
         display: none;
     }
 
@@ -198,4 +198,4 @@
     .catalog__btn:nth-child(3) {
         display: none;
     }
-    }
+}
